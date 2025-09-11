@@ -49,34 +49,19 @@
   </summary>
 
 ##
-
-<div style="text-align: center;">
+<p align="center">
 
   <!-- GIF Hello Kitty -->
-  <div class="tenor-gif-embed" 
-       data-postid="6870255069996214843" 
-       data-share-method="host" 
-       data-aspect-ratio="1.22905" 
-       data-width="100%">
-    <a href="https://tenor.com/view/hello-kitty-thanks-sanrio-kawaii-gif-6870255069996214843">
-      Hello Kitty Thanks Sticker
-    </a> 
-    from <a href="https://tenor.com/search/hello+kitty-stickers">Hello Kitty Stickers</a>
-  </div>
-
-  <!-- Script necessário para carregar o GIF -->
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-  <br><br>
+  <img src="https://github.com/user-attachments/assets/e2ae3255-e317-4c74-88fa-9ac05696793b" alt="Hello Kitty" />
 
   <!-- Texto de contato -->
   <b>Entre em contato comigo:</b>
 
-</div>
-
+  <!-- Ícones de contato -->
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabriellyvianna77@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/__gabrielly__vianna__/)
-  
-</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+  <!-- Rodapé animado -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+
+</p>
