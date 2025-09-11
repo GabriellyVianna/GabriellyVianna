@@ -50,14 +50,29 @@
 
 ##
 
-<div align="center">
-  <samp>
-    <b>
-       Entre em contato comigo:
-    </b>
-  </samp>
-  <br>
-  <br>
+<div style="text-align: center;">
+
+  <!-- GIF Hello Kitty -->
+  <div class="tenor-gif-embed" 
+       data-postid="6870255069996214843" 
+       data-share-method="host" 
+       data-aspect-ratio="1.22905" 
+       data-width="100%">
+    <a href="https://tenor.com/view/hello-kitty-thanks-sanrio-kawaii-gif-6870255069996214843">
+      Hello Kitty Thanks Sticker
+    </a> 
+    from <a href="https://tenor.com/search/hello+kitty-stickers">Hello Kitty Stickers</a>
+  </div>
+
+  <!-- Script necessário para carregar o GIF -->
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+  <br><br>
+
+  <!-- Texto de contato -->
+  <b>Entre em contato comigo:</b>
+
+</div>
 
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabriellyvianna77@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/__gabrielly__vianna__/)
